@@ -3,3 +3,6 @@ This repository contains complimentary digital resources for constructing an ele
 
 ## CAD model
 The CAD model was created in Autodesk Fusion 360 and can be accessed/edited here: https://a360.co/4aIOp0o
+
+## Code
+The Arduino code was written in MicroPython and is named PID_microPy.
